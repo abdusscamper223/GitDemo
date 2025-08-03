@@ -1,2 +1,2 @@
 # GitDemo
-it is used to practice the git and github tools 
+It is used to practice the <b>git and github tools</b> 
